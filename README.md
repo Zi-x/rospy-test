@@ -1,2 +1,2 @@
 # rospy-test
-Some demo about ros written in python
+ I created several demo about ROS (Robot Operating System) using Python.
